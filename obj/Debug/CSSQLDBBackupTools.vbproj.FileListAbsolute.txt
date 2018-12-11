@@ -1,0 +1,17 @@
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\CSSQLDBBackupTools\bin\Debug\CSSQLDBBackupTools.exe.config
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\CSSQLDBBackupTools.exe.config
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\CSSQLDBBackupTools.exe
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\CSSQLDBBackupTools.pdb
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\CSSQLDBBackupTools.xml
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.formMain.resources
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.Resources.resources
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.vbproj.GenerateResource.Cache
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.exe
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.xml
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.pdb
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.formRestoreDatabase.resources
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\Settings.ini
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.vbproj.CoreCompileInputs.cache
+C:\Data\Cardoner Sistemas\Development\CS-SQL DB Backup Tool\Solution\obj\Debug\CSSQLDBBackupTools.vbproj.CopyComplete
