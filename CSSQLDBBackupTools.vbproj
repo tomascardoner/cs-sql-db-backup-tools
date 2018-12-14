@@ -82,13 +82,13 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\framework-vbnet\CS_Constants.vb">
+    <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-vbnet\CS_Constants.vb">
       <Link>CS_Constants.vb</Link>
     </Compile>
-    <Compile Include="..\..\framework-vbnet\CS_Encryption_TripleDES.vb">
+    <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-vbnet\CS_Encryption_TripleDES.vb">
       <Link>CS_Encryption_TripleDES.vb</Link>
     </Compile>
-    <Compile Include="..\..\framework-vbnet\CS_FileINI.vb">
+    <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-vbnet\CS_FileINI.vb">
       <Link>CS_FileINI.vb</Link>
     </Compile>
     <Compile Include="Constants.vb" />
