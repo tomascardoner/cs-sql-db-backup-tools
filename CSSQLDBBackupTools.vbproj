@@ -82,8 +82,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-vbnet\CS_Constants.vb">
-      <Link>CS_Constants.vb</Link>
+    <Compile Include="..\..\framework-vbnet\Constants.vb">
+      <Link>Constants.vb</Link>
     </Compile>
     <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-vbnet\CS_Encryption_TripleDES.vb">
       <Link>CS_Encryption_TripleDES.vb</Link>
@@ -91,7 +91,7 @@
     <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-vbnet\CS_FileINI.vb">
       <Link>CS_FileINI.vb</Link>
     </Compile>
-    <Compile Include="Constants.vb" />
+    <Compile Include="AppConstants.vb" />
     <Compile Include="formMain.vb">
       <SubType>Form</SubType>
     </Compile>

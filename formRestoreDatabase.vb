@@ -19,7 +19,7 @@
     End Sub
 
     Private Sub ListSettings()
-        Dim INIPathAndFileName As String = My.Application.Info.DirectoryPath & "\" & Constants.SETTINGS_FILENAME
+        Dim INIPathAndFileName As String = My.Application.Info.DirectoryPath & "\" & AppConstants.SETTINGS_FILENAME
 
         comboboxSettings.Items.Clear()
 
@@ -92,7 +92,7 @@
         ' SQL Server Password
         KeyCurrent = mSettings.GetKey("SQLServerPassword", SettingsCurrent.ID)
         If Not KeyCurrent Is Nothing AndAlso KeyCurrent.Value.Trim <> "" Then
-            Dim PasswordDecrypter As New CS_Encrypt_TripleDES(PUBLIC_ENCRYPTION_PASSWORD)
+            Dim PasswordDecrypter As New CS_Encrypt_TripleDES(CardonerSistemas.Constants.PublicEncryptionPassword)
             Dim DecryptedPassword As String = ""
             If Not PasswordDecrypter.Decrypt(KeyCurrent.Value.Trim, DecryptedPassword) Then
                 textboxSQLServerPassword.Text = ""

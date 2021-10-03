@@ -1,4 +1,4 @@
-﻿Module Constants
+﻿Module AppConstants
     Friend Const SETTINGS_FILENAME As String = "settings.ini"
 
     Friend Const COMPRESS_APPLICATION_7ZIP_FILENAME As String = "7Z.exe"
