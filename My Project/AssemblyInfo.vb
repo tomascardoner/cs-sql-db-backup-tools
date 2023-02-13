@@ -11,8 +11,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("CS-SQL DB Backup Tools")> 
 <Assembly: AssemblyDescription("MS-SQL Server Database Backup Tools")> 
 <Assembly: AssemblyCompany("Cardoner Sistemas")> 
-<Assembly: AssemblyProduct("CS-SQLDBBackupTools")> 
-<Assembly: AssemblyCopyright("© 2018 Cardoner Sistemas. Reservados todos los derechos.")> 
+<Assembly: AssemblyProduct("CS-SQLDBBackupTools")>
+<Assembly: AssemblyCopyright("© 2018-2023 Cardoner Sistemas. Reservados todos los derechos.")>
 <Assembly: AssemblyTrademark("® CS-SQL DB Backup Tools")> 
 
 <Assembly: ComVisible(False)>
@@ -32,4 +32,4 @@ Imports System.Runtime.InteropServices
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
 <Assembly: AssemblyVersion("1.0.*")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> 
+' <Assembly: AssemblyFileVersion("1.0.0.0")> 
