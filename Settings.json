@@ -27,6 +27,45 @@
       "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Movimiento de Granos\\Database",
       "RestoreDataFileName": "CSMovimientoGranos.mdf",
       "RestoreLogFileName": "CSMovimientoGranos.ldf"
+    },
+    {
+      "Name": "CS-Pesaje",
+      "SqlServerInstanceName": "localhost",
+      "SqlServerLogin": "sa",
+      "SqlServerPassword": "FRg8W3sm/Ib7/XsZeUbLFWwJ2+br/rmL2tt+D+q5e07YzMvYOlQV4CvsQmRG2SPKI1M=",
+      "SqlServerDatabase": "CSPesaje",
+      "BackupFolder": "C:\\Users\\Tomas\\Dropbox\\Cholila Agroindustrial SRL\\CS-Pesaje\\Backup",
+      "BackupFileName": "CSPesaje{DATETIME}.bak",
+      "CompressedFileName": "CSPesaje{DATETIME}.7z",
+      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Pesaje\\2017\\Database",
+      "RestoreDataFileName": "CSPesaje.mdf",
+      "RestoreLogFileName": "CSPesaje.ldf"
+    },
+    {
+      "Name": "CS-Bomberos",
+      "SqlServerInstanceName": "localhost",
+      "SqlServerLogin": "sa",
+      "SqlServerPassword": "FRg8W3sm/Ib7/XsZeUbLFWwJ2+br/rmL2tt+D+q5e07YzMvYOlQV4CvsQmRG2SPKI1M=",
+      "SqlServerDatabase": "CSBomberos",
+      "BackupFolder": "C:\\Users\\Tomas\\Dropbox\\Clientes\\Bomberos Voluntarios de Lobos\\Backup",
+      "BackupFileName": "CSBomberos{DATETIME}.bak",
+      "CompressedFileName": "CSBomberos{DATETIME}.7z",
+      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Bomberos\\Database",
+      "RestoreDataFileName": "CSBomberos.mdf",
+      "RestoreLogFileName": "CSBomberos.ldf"
+    },
+    {
+      "Name": "CS-Balanza",
+      "SqlServerInstanceName": "localhost",
+      "SqlServerLogin": "sa",
+      "SqlServerPassword": "FRg8W3sm/Ib7/XsZeUbLFWwJ2+br/rmL2tt+D+q5e07YzMvYOlQV4CvsQmRG2SPKI1M=",
+      "SqlServerDatabase": "CSBalanza",
+      "BackupFolder": "G:\\.shortcut-targets-by-id\\19kWppMIWLHCASLGr2Khcu_b08Stdk5eh\\CS-Balanza\\Backup",
+      "BackupFileName": "CSBalanza{DATETIME}.bak",
+      "CompressedFileName": "CSBalanza{DATETIME}.7z",
+      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Colegio\\Database",
+      "RestoreDataFileName": "CSBalanza.mdf",
+      "RestoreLogFileName": "CSBalanza.ldf"
     }
   ]
 }
