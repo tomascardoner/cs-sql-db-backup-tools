@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSSQLDBBackupTools", "CSSQLDBBackupTools.vbproj", "{21379072-CE0D-46C5-8EC2-D572657ED0D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSqlDbBackupTools", "CSSqlDbBackupTools.csproj", "{FE9D49AE-2CDF-4BFD-8A0A-C907A277FB64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21379072-CE0D-46C5-8EC2-D572657ED0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21379072-CE0D-46C5-8EC2-D572657ED0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21379072-CE0D-46C5-8EC2-D572657ED0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21379072-CE0D-46C5-8EC2-D572657ED0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9D49AE-2CDF-4BFD-8A0A-C907A277FB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9D49AE-2CDF-4BFD-8A0A-C907A277FB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9D49AE-2CDF-4BFD-8A0A-C907A277FB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9D49AE-2CDF-4BFD-8A0A-C907A277FB64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BF6643-A24A-48D8-9E4A-12BF112624DE}
 	EndGlobalSection
 EndGlobal

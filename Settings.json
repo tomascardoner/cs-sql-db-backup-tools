@@ -1,0 +1,32 @@
+{
+  "ProcessTimeoutMilliseconds": 60000,
+  "SqlConnectionTimeout": 30,
+  "Databases": [
+    {
+      "Name": "CS-Colegio",
+      "SqlServerInstanceName": "localhost",
+      "SqlServerLogin": "sa",
+      "SqlServerPassword": "FRg8W3sm/Ib7/XsZeUbLFWwJ2+br/rmL2tt+D+q5e07YzMvYOlQV4CvsQmRG2SPKI1M=",
+      "SqlServerDatabase": "CSColegio",
+      "BackupFolder": "G:\\.shortcut-targets-by-id\\1yAYcw1BaHu5Vi9DXrcTDBgZGh67fK4mT\\CS-Colegio\\Database",
+      "BackupFileName": "CSColegio{DATETIME}.bak",
+      "CompressedFileName": "CSColegio{DATETIME}.7z",
+      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Colegio\\Database",
+      "RestoreDataFileName": "CSColegio.mdf",
+      "RestoreLogFileName": "CSColegio.ldf"
+    },
+    {
+      "Name": "CS-Movimiento de Granos",
+      "SqlServerInstanceName": "localhost",
+      "SqlServerLogin": "sa",
+      "SqlServerPassword": "FRg8W3sm/Ib7/XsZeUbLFWwJ2+br/rmL2tt+D+q5e07YzMvYOlQV4CvsQmRG2SPKI1M=",
+      "SqlServerDatabase": "CSMovimientoGranos",
+      "BackupFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Movimiento de Granos\\Database",
+      "BackupFileName": "CSMovimientoGranos{DATETIME}.bak",
+      "CompressedFileName": "CSMovimientoGranos{DATETIME}.7z",
+      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Movimiento de Granos\\Database",
+      "RestoreDataFileName": "CSMovimientoGranos.mdf",
+      "RestoreLogFileName": "CSMovimientoGranos.ldf"
+    }
+  ]
+}

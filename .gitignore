@@ -351,3 +351,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+obj/Debug/CSSQLDBBackupTools.vbproj.GenerateResource.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/CSSQLDBBackupTools.vbproj.CoreCompileInputs.cache
+obj/Debug/CSSQLDBBackupTools.vbproj.FileListAbsolute.txt
+obj/Debug/CSSQLDBBackupTools.pdb
+obj/Debug/CSSQLDBBackupTools.exe
+bin/Debug/CSSQLDBBackupTools.exe
