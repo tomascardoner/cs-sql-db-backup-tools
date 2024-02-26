@@ -176,18 +176,20 @@ namespace CSSqlDbBackupTools
             // Decompress the backup file
             try
             {
-                System.Diagnostics.Process processDecompress = System.Diagnostics.Process.Start(new ProcessStartInfo()
+                ProcessStartInfo processStartInfo = new()
                 {
                     FileName = CompressApplicationFilename,
                     Arguments = string.Format(CompressApplicationDecompressArguments, backupFolderAndCompressedFileName, TextBoxRestoreFolder.Text),
                     UseShellExecute = true,
                     WindowStyle = ProcessWindowStyle.Hidden
-                });
+                };
+                System.Diagnostics.Process processDecompress = System.Diagnostics.Process.Start(processStartInfo);
                 processDecompress.WaitForExit(Program.Settings.ProcessTimeoutMilliseconds);
 
                 if (processDecompress.ExitCode != 0)
                 {
                     this.Cursor = Cursors.Default;
+                    MessageBox.Show($"Error decompressing the compressed backup file. Decompress process return {processDecompress.ExitCode} as exit code.", CardonerSistemas.Framework.Base.Application.Info.Title, MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
             }
