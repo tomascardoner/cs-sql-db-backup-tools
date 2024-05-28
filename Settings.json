@@ -11,7 +11,7 @@
       "BackupFolder": "G:\\.shortcut-targets-by-id\\1yAYcw1BaHu5Vi9DXrcTDBgZGh67fK4mT\\CS-Colegio\\Database",
       "BackupFileName": "CSColegio{DATETIME}.bak",
       "CompressedFileName": "CSColegio{DATETIME}.7z",
-      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Colegio\\Database",
+      "RestoreFolder": "C:\\Data\\Sql databases",
       "RestoreDataFileName": "CSColegio.mdf",
       "RestoreLogFileName": "CSColegio.ldf"
     },
@@ -24,7 +24,7 @@
       "BackupFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Movimiento de Granos\\Database",
       "BackupFileName": "CSMovimientoGranos{DATETIME}.bak",
       "CompressedFileName": "CSMovimientoGranos{DATETIME}.7z",
-      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Movimiento de Granos\\Database",
+      "RestoreFolder": "C:\\Data\\Sql databases",
       "RestoreDataFileName": "CSMovimientoGranos.mdf",
       "RestoreLogFileName": "CSMovimientoGranos.ldf"
     },
@@ -37,7 +37,7 @@
       "BackupFolder": "C:\\Users\\Tomas\\Dropbox\\Cholila Agroindustrial SRL\\CS-Pesaje\\Backup",
       "BackupFileName": "CSPesaje{DATETIME}.bak",
       "CompressedFileName": "CSPesaje{DATETIME}.7z",
-      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Pesaje\\2017\\Database",
+      "RestoreFolder": "C:\\Data\\Sql databases",
       "RestoreDataFileName": "CSPesaje.mdf",
       "RestoreLogFileName": "CSPesaje.ldf"
     },
@@ -50,7 +50,7 @@
       "BackupFolder": "C:\\Users\\Tomas\\Dropbox\\Clientes\\Bomberos Voluntarios de Lobos\\Backup",
       "BackupFileName": "CSBomberos{DATETIME}.bak",
       "CompressedFileName": "CSBomberos{DATETIME}.7z",
-      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Bomberos\\Database",
+      "RestoreFolder": "C:\\Data\\Sql databases",
       "RestoreDataFileName": "CSBomberos.mdf",
       "RestoreLogFileName": "CSBomberos.ldf"
     },
@@ -63,9 +63,22 @@
       "BackupFolder": "G:\\.shortcut-targets-by-id\\19kWppMIWLHCASLGr2Khcu_b08Stdk5eh\\CS-Balanza\\Backup",
       "BackupFileName": "CSBalanza{DATETIME}.bak",
       "CompressedFileName": "CSBalanza{DATETIME}.7z",
-      "RestoreFolder": "C:\\Data\\Cardoner Sistemas\\Development\\CS-Colegio\\Database",
+      "RestoreFolder": "C:\\Data\\Sql databases",
       "RestoreDataFileName": "CSBalanza.mdf",
       "RestoreLogFileName": "CSBalanza.ldf"
+    },
+    {
+      "Name": "CS-Maps",
+      "SqlServerInstanceName": "localhost",
+      "SqlServerLogin": "sa",
+      "SqlServerPassword": "FRg8W3sm/Ib7/XsZeUbLFWwJ2+br/rmL2tt+D+q5e07YzMvYOlQV4CvsQmRG2SPKI1M=",
+      "SqlServerDatabase": "CSMaps",
+      "BackupFolder": "G:\\.shortcut-targets-by-id\\1Ket0qYn__K0p5QxiayFGmxpwKSHpGZJk\\CS-Maps\\Backup",
+      "BackupFileName": "CSMaps{DATETIME}.bak",
+      "CompressedFileName": "CSMaps{DATETIME}.7z",
+      "RestoreFolder": "C:\\Data\\Sql databases",
+      "RestoreDataFileName": "CSMaps.mdf",
+      "RestoreLogFileName": "CSMaps_log.ldf"
     }
   ]
 }
